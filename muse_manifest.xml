@@ -1,0 +1,441 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" ftp_hostname="ftp://ftp.quickstart.net.nz" ftp_rootfolder="/www.grammarwindsor.org.nz" exportTarget="FTP" resolutions="1x" timestamp="1458730782615" iceMarkupVersion="2" domain="www.grammarwindsor.org.nz">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="465553320" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="409819917" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="372059617" mt="1458729705698" redirect="true" seo="true"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3948505706" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="363119646" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3788379388" mt="1458730742288" redirect="true" seo="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3983041127"/>
+    <file name="index.css" crc="4210104677" ref="index"/>
+    <file name="iefonts_index.css" crc="4040263105" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="juniors-information-sheet---2015-10-march.pdf" crc="471892101" mt="1425980037000"/>
+    <file name="association_transfer_form.doc" crc="101917782" mt="1428494893000"/>
+    <file name="juniors-information-sheet---version-1.pdf" crc="3950967247" mt="1456306792000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:tablet>index:phone>index"/>
+    <file name="museutils.js" crc="183364071" ref="index:tablet>index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:tablet>index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:tablet>index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:tablet>index:phone>index"/>
+    <file name="pie.js" crc="3827607177" ref="index:tablet>index:phone>index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:tablet>index:phone>index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:tablet>index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:tablet>index:phone>index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:tablet>index:phone>index"/>
+    <file name="form_check.php" crc="277267350" ref="index:tablet>index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:tablet>index"/>
+    <file name="form_process.php" crc="24249335" ref="index:tablet>index"/>
+    <file name="form-u1134.php" crc="3909092744" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tablet>index:phone>index"/>
+    <file name="museredirect.js" crc="40941066" ref="index:tablet>index"/>
+    <file name="form-u5386.php" crc="71294868" ref="tablet>index"/>
+  </folder>
+  <folder name="images">
+    <file name="revamped gwhc logo.png" crc="4130065140" ref="index" seo="true"/>
+    <file name="img_4518.jpg" crc="417054933" ref="index:tablet>index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tablet>index:phone>index"/>
+    <file name="img_4469.jpg" crc="3852496851" ref="index" seo="true"/>
+    <file name="img_4478.jpg" crc="297111454" ref="index" seo="true"/>
+    <file name="img_4480.jpg" crc="284472015" ref="index" seo="true"/>
+    <file name="img_4503.jpg" crc="3882755457" ref="index" seo="true"/>
+    <file name="img_4505.jpg" crc="166064624" ref="index" seo="true"/>
+    <file name="hockey 023.jpg" crc="510680138" ref="index" seo="true"/>
+    <file name="picture 183.jpg" crc="4055920995" ref="index" seo="true"/>
+    <file name="picture 189.jpg" crc="4088176192" ref="index" seo="true"/>
+    <file name="loading.gif" crc="3815509949" ref="index:tablet>index:phone>index"/>
+    <file name="img_4445.jpg" crc="205363343" ref="index:tablet>index:phone>index"/>
+    <file name="photo13.jpg" crc="102194745" ref="index" seo="true"/>
+    <file name="img_4484.jpg" crc="3805721792" ref="index:tablet>index:phone>index"/>
+    <file name="img_5548.jpg" crc="349101368" ref="index:tablet>index:phone>index"/>
+    <file name="u1147-17.png" crc="4068411817" ref="index"/>
+    <file name="u1147-17-r.png" crc="385999576" ref="index"/>
+    <file name="u1147-17-m.png" crc="3786666813" ref="index"/>
+    <file name="u1147-17-fs.png" crc="408016103" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="3783961257" ref="index:tablet>index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="index:tablet>index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="index:tablet>index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="index:tablet>index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="index:tablet>index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="index:tablet>index"/>
+    <file name="ags turf image.jpg" crc="4002619441" ref="index:tablet>index:phone>index"/>
+    <file name="0h9d0340.jpg" crc="4020320575" ref="index" seo="true"/>
+    <file name="0h9d0344.jpg" crc="39000109" ref="index" seo="true"/>
+    <file name="crw_7393-01.jpg" crc="467691431" ref="index" seo="true"/>
+    <file name="crw_7396-01.jpg" crc="3776847996" ref="index" seo="true"/>
+    <file name="crw_7409-01.jpg" crc="4050751047" ref="index" seo="true"/>
+    <file name="crw_7413-01.jpg" crc="40240646" ref="index" seo="true"/>
+    <file name="crw_7414-01.jpg" crc="144216461" ref="index" seo="true"/>
+    <file name="crw_7419-01.jpg" crc="3851251865" ref="index" seo="true"/>
+    <file name="crw_7431-01.jpg" crc="244161406" ref="index" seo="true"/>
+    <file name="dsc_5932.jpg" crc="11817828" ref="index" seo="true"/>
+    <file name="dsc_5933.jpg" crc="464665902" ref="index" seo="true"/>
+    <file name="dsc_5935.jpg" crc="4041298188" ref="index" seo="true"/>
+    <file name="dsc_5936.jpg" crc="527263763" ref="index" seo="true"/>
+    <file name="dsc_5974.jpg" crc="208040052" ref="index" seo="true"/>
+    <file name="dsc_5977.jpg" crc="3846780544" ref="index" seo="true"/>
+    <file name="dsc_5979.jpg" crc="4039804276" ref="index" seo="true"/>
+    <file name="dsc_5986.jpg" crc="3805670123" ref="index" seo="true"/>
+    <file name="dsc_5995.jpg" crc="4073090161" ref="index" seo="true"/>
+    <file name="dsc_5996.jpg" crc="4041106254" ref="index" seo="true"/>
+    <file name="dsc_5999.jpg" crc="437267338" ref="index" seo="true"/>
+    <file name="dsc_6003.jpg" crc="4212227834" ref="index" seo="true"/>
+    <file name="dsc_6014.jpg" crc="4060980038" ref="index" seo="true"/>
+    <file name="dsc_6015.jpg" crc="199022306" ref="index" seo="true"/>
+    <file name="dsc_6033.jpg" crc="4158685270" ref="index" seo="true"/>
+    <file name="dsc_6042.jpg" crc="248714872" ref="index" seo="true"/>
+    <file name="dsc_6043.jpg" crc="186765360" ref="index" seo="true"/>
+    <file name="hockey 017.jpg" crc="130834773" ref="index" seo="true"/>
+    <file name="hockey 035.jpg" crc="239919115" ref="index" seo="true"/>
+    <file name="hockey 041.jpg" crc="4197706598" ref="index" seo="true"/>
+    <file name="hockey 047.jpg" crc="170589358" ref="index" seo="true"/>
+    <file name="img_4467.jpg" crc="368767234" ref="index" seo="true"/>
+    <file name="img_4468.jpg" crc="329852246" ref="index" seo="true"/>
+    <file name="img_4470.jpg" crc="225648808" ref="index" seo="true"/>
+    <file name="img_4471.jpg" crc="4242819695" ref="index" seo="true"/>
+    <file name="img_4472.jpg" crc="383024717" ref="index" seo="true"/>
+    <file name="img_4473.jpg" crc="392799133" ref="index" seo="true"/>
+    <file name="img_4474.jpg" crc="236124721" ref="index" seo="true"/>
+    <file name="img_4475.jpg" crc="4034285156" ref="index" seo="true"/>
+    <file name="img_4479.jpg" crc="253372284" ref="index" seo="true"/>
+    <file name="img_4481.jpg" crc="159669902" ref="index" seo="true"/>
+    <file name="img_4482.jpg" crc="338226023" ref="index" seo="true"/>
+    <file name="img_4483.jpg" crc="243139744" ref="index" seo="true"/>
+    <file name="img_44842.jpg" crc="4071715219" ref="index" seo="true"/>
+    <file name="img_4485.jpg" crc="3865397879" ref="index" seo="true"/>
+    <file name="img_4489.jpg" crc="3791187988" ref="index" seo="true"/>
+    <file name="img_4490.jpg" crc="3803115977" ref="index" seo="true"/>
+    <file name="img_4491.jpg" crc="4150939720" ref="index" seo="true"/>
+    <file name="img_4493.jpg" crc="3987616555" ref="index" seo="true"/>
+    <file name="img_4494.jpg" crc="4241124365" ref="index" seo="true"/>
+    <file name="img_4496.jpg" crc="397562833" ref="index" seo="true"/>
+    <file name="img_4497.jpg" crc="4265141378" ref="index" seo="true"/>
+    <file name="img_4498.jpg" crc="327768304" ref="index" seo="true"/>
+    <file name="img_4499.jpg" crc="3783396250" ref="index" seo="true"/>
+    <file name="img_4500.jpg" crc="22668049" ref="index" seo="true"/>
+    <file name="img_4501.jpg" crc="220733240" ref="index" seo="true"/>
+    <file name="img_4502.jpg" crc="77147497" ref="index" seo="true"/>
+    <file name="img_4504.jpg" crc="511901470" ref="index" seo="true"/>
+    <file name="img_4506.jpg" crc="3788758014" ref="index" seo="true"/>
+    <file name="img_4507.jpg" crc="3865389050" ref="index" seo="true"/>
+    <file name="img_4508.jpg" crc="80387628" ref="index" seo="true"/>
+    <file name="img_4511.jpg" crc="4043412493" ref="index" seo="true"/>
+    <file name="img_4513.jpg" crc="3778223828" ref="index" seo="true"/>
+    <file name="img_4514.jpg" crc="411212565" ref="index" seo="true"/>
+    <file name="img_4515.jpg" crc="218136545" ref="index" seo="true"/>
+    <file name="img_4516.jpg" crc="4103119243" ref="index" seo="true"/>
+    <file name="img_45182.jpg" crc="64840828" ref="index" seo="true"/>
+    <file name="img_4519.jpg" crc="151977294" ref="index" seo="true"/>
+    <file name="img_4520.jpg" crc="148642573" ref="index" seo="true"/>
+    <file name="img_4521.jpg" crc="46341259" ref="index" seo="true"/>
+    <file name="img_4522.jpg" crc="232239184" ref="index" seo="true"/>
+    <file name="img_4523.jpg" crc="387288423" ref="index" seo="true"/>
+    <file name="img_4524.jpg" crc="437421815" ref="index" seo="true"/>
+    <file name="img_4525.jpg" crc="380747993" ref="index" seo="true"/>
+    <file name="img_4526.jpg" crc="530057840" ref="index" seo="true"/>
+    <file name="photo1.jpg" crc="401933599" ref="index" seo="true"/>
+    <file name="photo2.jpg" crc="4226531227" ref="index" seo="true"/>
+    <file name="photo3.jpg" crc="41765639" ref="index" seo="true"/>
+    <file name="photo4.jpg" crc="4257009478" ref="index" seo="true"/>
+    <file name="photo5.jpg" crc="4157240568" ref="index" seo="true"/>
+    <file name="photo6.jpg" crc="4226274809" ref="index" seo="true"/>
+    <file name="photo7.jpg" crc="3886622394" ref="index" seo="true"/>
+    <file name="photo8.jpg" crc="474472695" ref="index" seo="true"/>
+    <file name="photo9.jpg" crc="329090870" ref="index" seo="true"/>
+    <file name="photo10.jpg" crc="4174935082" ref="index" seo="true"/>
+    <file name="photo11.jpg" crc="209433727" ref="index" seo="true"/>
+    <file name="photo12.jpg" crc="4237541506" ref="index" seo="true"/>
+    <file name="photo14.jpg" crc="435172829" ref="index" seo="true"/>
+    <file name="photo15.jpg" crc="4249183825" ref="index" seo="true"/>
+    <file name="photo16.jpg" crc="421023797" ref="index" seo="true"/>
+    <file name="photo17.jpg" crc="1640641" ref="index" seo="true"/>
+    <file name="photo18.jpg" crc="437540602" ref="index:tablet>index:phone>index"/>
+    <file name="photo21.jpg" crc="3910348426" ref="index" seo="true"/>
+    <file name="picture 157.jpg" crc="4083366015" ref="index" seo="true"/>
+    <file name="picture 160.jpg" crc="4087913380" ref="index" seo="true"/>
+    <file name="picture 182.jpg" crc="182952212" ref="index" seo="true"/>
+    <file name="picture 184.jpg" crc="4034381590" ref="index" seo="true"/>
+    <file name="picture 185.jpg" crc="67662765" ref="index" seo="true"/>
+    <file name="picture 193.jpg" crc="3912190367" ref="index" seo="true"/>
+    <file name="picture 196.jpg" crc="64528445" ref="index" seo="true"/>
+    <file name="picture 199.jpg" crc="165761369" ref="index" seo="true"/>
+    <file name="picture 202.jpg" crc="69956002" ref="index" seo="true"/>
+    <file name="photo182.jpg" crc="407874031" ref="index" seo="true"/>
+    <file name="0h9d0340585x390.jpg" crc="3956938833" ref="tablet>index" seo="true"/>
+    <file name="0h9d0344585x390.jpg" crc="186693260" ref="tablet>index" seo="true"/>
+    <file name="crw_7393-01584x400.jpg" crc="3898981329" ref="tablet>index" seo="true"/>
+    <file name="crw_7396-01591x390.jpg" crc="130371361" ref="tablet>index" seo="true"/>
+    <file name="crw_7409-01588x390.jpg" crc="4175255095" ref="tablet>index" seo="true"/>
+    <file name="crw_7414-01592x390.jpg" crc="4030411212" ref="tablet>index" seo="true"/>
+    <file name="crw_7419-01587x390.jpg" crc="4145671059" ref="tablet>index" seo="true"/>
+    <file name="crw_7431-01592x390.jpg" crc="208293820" ref="tablet>index" seo="true"/>
+    <file name="dsc_5932585x390.jpg" crc="9659423" ref="tablet>index" seo="true"/>
+    <file name="dsc_5933587x390.jpg" crc="249198852" ref="tablet>index" seo="true"/>
+    <file name="dsc_5935587x390.jpg" crc="3881851113" ref="tablet>index" seo="true"/>
+    <file name="dsc_5936585x390.jpg" crc="4183051279" ref="tablet>index" seo="true"/>
+    <file name="dsc_5974585x390.jpg" crc="4242463391" ref="tablet>index" seo="true"/>
+    <file name="dsc_5977587x390.jpg" crc="3773856167" ref="tablet>index" seo="true"/>
+    <file name="dsc_5979587x390.jpg" crc="376400538" ref="tablet>index" seo="true"/>
+    <file name="dsc_5986585x390.jpg" crc="4291770818" ref="tablet>index" seo="true"/>
+    <file name="dsc_5995585x390.jpg" crc="477264416" ref="tablet>index" seo="true"/>
+    <file name="dsc_5996587x390.jpg" crc="58480314" ref="tablet>index" seo="true"/>
+    <file name="dsc_5999587x390.jpg" crc="335819905" ref="tablet>index" seo="true"/>
+    <file name="dsc_6003587x390.jpg" crc="367628861" ref="tablet>index" seo="true"/>
+    <file name="dsc_6014587x390.jpg" crc="489874640" ref="tablet>index" seo="true"/>
+    <file name="dsc_6015587x390.jpg" crc="4282724223" ref="tablet>index" seo="true"/>
+    <file name="dsc_6033585x390.jpg" crc="332043024" ref="tablet>index" seo="true"/>
+    <file name="dsc_6042585x390.jpg" crc="411377667" ref="tablet>index" seo="true"/>
+    <file name="dsc_6043585x390.jpg" crc="3813545466" ref="tablet>index" seo="true"/>
+    <file name="hockey 017584x392.jpg" crc="3926924555" ref="tablet>index" seo="true"/>
+    <file name="hockey 023584x392.jpg" crc="3982617237" ref="tablet>index" seo="true"/>
+    <file name="hockey 035584x392.jpg" crc="443449435" ref="tablet>index" seo="true"/>
+    <file name="hockey 041584x392.jpg" crc="59580873" ref="tablet>index" seo="true"/>
+    <file name="hockey 047584x392.jpg" crc="516003143" ref="tablet>index" seo="true"/>
+    <file name="img_4467585x390.jpg" crc="4039523004" ref="tablet>index" seo="true"/>
+    <file name="img_4468585x390.jpg" crc="3831845496" ref="tablet>index" seo="true"/>
+    <file name="img_4469585x390.jpg" crc="3962505428" ref="tablet>index" seo="true"/>
+    <file name="img_4470585x390.jpg" crc="3977382533" ref="tablet>index" seo="true"/>
+    <file name="img_4471585x390.jpg" crc="34728961" ref="tablet>index" seo="true"/>
+    <file name="img_4472585x390.jpg" crc="528982390" ref="tablet>index" seo="true"/>
+    <file name="img_4473585x390.jpg" crc="4008552260" ref="tablet>index" seo="true"/>
+    <file name="img_4474585x390.jpg" crc="140911535" ref="tablet>index" seo="true"/>
+    <file name="img_4475585x390.jpg" crc="535435440" ref="tablet>index" seo="true"/>
+    <file name="img_4478585x390.jpg" crc="4165329587" ref="tablet>index" seo="true"/>
+    <file name="img_4479585x390.jpg" crc="212654044" ref="tablet>index" seo="true"/>
+    <file name="img_4480585x390.jpg" crc="3784100167" ref="tablet>index" seo="true"/>
+    <file name="img_4481585x390.jpg" crc="4271414555" ref="tablet>index" seo="true"/>
+    <file name="img_4482585x390.jpg" crc="520860682" ref="tablet>index" seo="true"/>
+    <file name="img_4483585x390.jpg" crc="4048658771" ref="tablet>index" seo="true"/>
+    <file name="img_4484585x390.jpg" crc="3817091863" ref="tablet>index" seo="true"/>
+    <file name="img_4485585x390.jpg" crc="378766385" ref="tablet>index" seo="true"/>
+    <file name="img_4489585x390.jpg" crc="105198874" ref="tablet>index" seo="true"/>
+    <file name="img_4490585x390.jpg" crc="3826010290" ref="tablet>index" seo="true"/>
+    <file name="img_4491585x390.jpg" crc="327556761" ref="tablet>index" seo="true"/>
+    <file name="img_4493585x390.jpg" crc="4031349225" ref="tablet>index" seo="true"/>
+    <file name="img_4494585x390.jpg" crc="4065769585" ref="tablet>index" seo="true"/>
+    <file name="img_4496585x390.jpg" crc="380873248" ref="tablet>index" seo="true"/>
+    <file name="img_4497585x390.jpg" crc="266493345" ref="tablet>index" seo="true"/>
+    <file name="img_4498585x390.jpg" crc="451084492" ref="tablet>index" seo="true"/>
+    <file name="img_4499585x390.jpg" crc="301535427" ref="tablet>index" seo="true"/>
+    <file name="img_4500585x390.jpg" crc="3879419069" ref="tablet>index" seo="true"/>
+    <file name="img_4501585x390.jpg" crc="4026209143" ref="tablet>index" seo="true"/>
+    <file name="img_4502585x390.jpg" crc="461886335" ref="tablet>index" seo="true"/>
+    <file name="img_4503585x390.jpg" crc="287244225" ref="tablet>index" seo="true"/>
+    <file name="img_4504585x390.jpg" crc="3825586314" ref="tablet>index" seo="true"/>
+    <file name="img_4505585x390.jpg" crc="4208829531" ref="tablet>index" seo="true"/>
+    <file name="img_4506585x390.jpg" crc="3866076145" ref="tablet>index" seo="true"/>
+    <file name="img_4507585x390.jpg" crc="4044427241" ref="tablet>index" seo="true"/>
+    <file name="img_4508585x390.jpg" crc="103318277" ref="tablet>index" seo="true"/>
+    <file name="img_4511585x390.jpg" crc="3914897389" ref="tablet>index" seo="true"/>
+    <file name="img_4513585x390.jpg" crc="253923588" ref="tablet>index" seo="true"/>
+    <file name="img_4514585x390.jpg" crc="232456321" ref="tablet>index" seo="true"/>
+    <file name="img_4515585x390.jpg" crc="355696491" ref="tablet>index" seo="true"/>
+    <file name="img_4516585x390.jpg" crc="4091474256" ref="tablet>index" seo="true"/>
+    <file name="img_4518585x390.jpg" crc="534378920" ref="tablet>index" seo="true"/>
+    <file name="img_4519585x390.jpg" crc="4034246556" ref="tablet>index" seo="true"/>
+    <file name="img_4520585x390.jpg" crc="4151867711" ref="tablet>index" seo="true"/>
+    <file name="img_4521585x390.jpg" crc="3832728961" ref="tablet>index" seo="true"/>
+    <file name="img_4522585x390.jpg" crc="409146819" ref="tablet>index" seo="true"/>
+    <file name="img_4523585x390.jpg" crc="44882837" ref="tablet>index" seo="true"/>
+    <file name="img_4524585x390.jpg" crc="3798030428" ref="tablet>index" seo="true"/>
+    <file name="img_4525585x390.jpg" crc="495922064" ref="tablet>index" seo="true"/>
+    <file name="img_4526585x390.jpg" crc="119453029" ref="tablet>index" seo="true"/>
+    <file name="photo1584x438.jpg" crc="259815489" ref="tablet>index" seo="true"/>
+    <file name="photo2584x438.jpg" crc="155508303" ref="tablet>index" seo="true"/>
+    <file name="photo3584x438.jpg" crc="3868289267" ref="tablet>index" seo="true"/>
+    <file name="photo4584x438.jpg" crc="4055176517" ref="tablet>index" seo="true"/>
+    <file name="photo5584x438.jpg" crc="4287621743" ref="tablet>index" seo="true"/>
+    <file name="photo6584x438.jpg" crc="3945505787" ref="tablet>index" seo="true"/>
+    <file name="photo7584x438.jpg" crc="525556805" ref="tablet>index" seo="true"/>
+    <file name="photo8584x438.jpg" crc="4149069887" ref="tablet>index" seo="true"/>
+    <file name="photo9584x438.jpg" crc="403594598" ref="tablet>index" seo="true"/>
+    <file name="photo10584x438.jpg" crc="410389325" ref="tablet>index" seo="true"/>
+    <file name="photo11584x438.jpg" crc="3764147230" ref="tablet>index" seo="true"/>
+    <file name="photo12584x438.jpg" crc="118202329" ref="tablet>index" seo="true"/>
+    <file name="photo13584x438.jpg" crc="3888177453" ref="tablet>index" seo="true"/>
+    <file name="photo14584x438.jpg" crc="4143128627" ref="tablet>index" seo="true"/>
+    <file name="photo15584x438.jpg" crc="4168208265" ref="tablet>index" seo="true"/>
+    <file name="photo16584x438.jpg" crc="4217391333" ref="tablet>index" seo="true"/>
+    <file name="photo17584x438.jpg" crc="519425753" ref="tablet>index" seo="true"/>
+    <file name="photo18584x438.jpg" crc="231531598" ref="tablet>index" seo="true"/>
+    <file name="photo21584x438.jpg" crc="4162016376" ref="tablet>index" seo="true"/>
+    <file name="picture 157584x438.jpg" crc="3863718675" ref="tablet>index" seo="true"/>
+    <file name="picture 160584x438.jpg" crc="3943021995" ref="tablet>index" seo="true"/>
+    <file name="picture 182584x438.jpg" crc="265522689" ref="tablet>index" seo="true"/>
+    <file name="picture 183584x438.jpg" crc="3877123053" ref="tablet>index" seo="true"/>
+    <file name="picture 184584x438.jpg" crc="146339640" ref="tablet>index" seo="true"/>
+    <file name="picture 185584x438.jpg" crc="418278292" ref="tablet>index" seo="true"/>
+    <file name="picture 189584x438.jpg" crc="3956532230" ref="tablet>index" seo="true"/>
+    <file name="picture 193584x438.jpg" crc="83978776" ref="tablet>index" seo="true"/>
+    <file name="picture 196584x438.jpg" crc="3786921406" ref="tablet>index" seo="true"/>
+    <file name="picture 199584x438.jpg" crc="482960114" ref="tablet>index" seo="true"/>
+    <file name="picture 202584x438.jpg" crc="98874366" ref="tablet>index" seo="true"/>
+    <file name="u5387-17.png" crc="4068411817" ref="tablet>index"/>
+    <file name="u5387-17-r.png" crc="385999576" ref="tablet>index"/>
+    <file name="u5387-17-m.png" crc="3786666813" ref="tablet>index"/>
+    <file name="u5387-17-fs.png" crc="408016103" ref="tablet>index"/>
+    <file name="crw_7413-01607x391.jpg" crc="4037979149" ref="tablet>index" seo="true"/>
+    <file name="0h9d0340303x202.jpg" crc="3863049519" ref="phone>index" seo="true"/>
+    <file name="0h9d0344303x202.jpg" crc="4247663508" ref="phone>index" seo="true"/>
+    <file name="crw_7393-01303x208.jpg" crc="3963545703" ref="phone>index" seo="true"/>
+    <file name="crw_7396-01306x202.jpg" crc="4207505429" ref="phone>index" seo="true"/>
+    <file name="crw_7409-01305x202.jpg" crc="276568194" ref="phone>index" seo="true"/>
+    <file name="crw_7413-01315x203.jpg" crc="4174590104" ref="phone>index" seo="true"/>
+    <file name="crw_7414-01307x202.jpg" crc="45879658" ref="phone>index" seo="true"/>
+    <file name="crw_7419-01304x202.jpg" crc="3800962075" ref="phone>index" seo="true"/>
+    <file name="crw_7431-01307x202.jpg" crc="3808676350" ref="phone>index" seo="true"/>
+    <file name="dsc_5932303x202.jpg" crc="322910787" ref="phone>index" seo="true"/>
+    <file name="dsc_5933304x202.jpg" crc="248856222" ref="phone>index" seo="true"/>
+    <file name="dsc_5935304x202.jpg" crc="53567699" ref="phone>index" seo="true"/>
+    <file name="dsc_5936303x202.jpg" crc="49369633" ref="phone>index" seo="true"/>
+    <file name="dsc_5974303x202.jpg" crc="127094772" ref="phone>index" seo="true"/>
+    <file name="dsc_5977304x202.jpg" crc="185553310" ref="phone>index" seo="true"/>
+    <file name="dsc_5979304x202.jpg" crc="4004051040" ref="phone>index" seo="true"/>
+    <file name="dsc_5986303x202.jpg" crc="232441186" ref="phone>index" seo="true"/>
+    <file name="dsc_5995303x202.jpg" crc="4035374264" ref="phone>index" seo="true"/>
+    <file name="dsc_5996304x202.jpg" crc="395708654" ref="phone>index" seo="true"/>
+    <file name="dsc_5999304x202.jpg" crc="4090833044" ref="phone>index" seo="true"/>
+    <file name="dsc_6003304x202.jpg" crc="4138139564" ref="phone>index" seo="true"/>
+    <file name="dsc_6014304x202.jpg" crc="4112755265" ref="phone>index" seo="true"/>
+    <file name="dsc_6015304x202.jpg" crc="3871675285" ref="phone>index" seo="true"/>
+    <file name="dsc_6033303x202.jpg" crc="4205261678" ref="phone>index" seo="true"/>
+    <file name="dsc_6042303x202.jpg" crc="95618" ref="phone>index" seo="true"/>
+    <file name="dsc_6043303x202.jpg" crc="180928252" ref="phone>index" seo="true"/>
+    <file name="hockey 017303x203.jpg" crc="4276531610" ref="phone>index" seo="true"/>
+    <file name="hockey 023303x203.jpg" crc="312936564" ref="phone>index" seo="true"/>
+    <file name="hockey 035303x203.jpg" crc="4112959351" ref="phone>index" seo="true"/>
+    <file name="hockey 041303x203.jpg" crc="3789069044" ref="phone>index" seo="true"/>
+    <file name="hockey 047303x203.jpg" crc="5258366" ref="phone>index" seo="true"/>
+    <file name="img_4467303x202.jpg" crc="443681693" ref="phone>index" seo="true"/>
+    <file name="img_4468303x202.jpg" crc="3963984424" ref="phone>index" seo="true"/>
+    <file name="img_4469303x202.jpg" crc="481331369" ref="phone>index" seo="true"/>
+    <file name="img_4470303x202.jpg" crc="193237386" ref="phone>index" seo="true"/>
+    <file name="img_4471303x202.jpg" crc="3971952408" ref="phone>index" seo="true"/>
+    <file name="img_4472303x202.jpg" crc="226070557" ref="phone>index" seo="true"/>
+    <file name="img_4473303x202.jpg" crc="260176290" ref="phone>index" seo="true"/>
+    <file name="img_4474303x202.jpg" crc="4205187553" ref="phone>index" seo="true"/>
+    <file name="img_4475303x202.jpg" crc="3836932759" ref="phone>index" seo="true"/>
+    <file name="img_4478303x202.jpg" crc="495264517" ref="phone>index" seo="true"/>
+    <file name="img_4479303x202.jpg" crc="523033370" ref="phone>index" seo="true"/>
+    <file name="img_4480303x202.jpg" crc="4139792625" ref="phone>index" seo="true"/>
+    <file name="img_4481303x202.jpg" crc="4103884052" ref="phone>index" seo="true"/>
+    <file name="img_4482303x202.jpg" crc="3974496730" ref="phone>index" seo="true"/>
+    <file name="img_4483303x202.jpg" crc="4257535088" ref="phone>index" seo="true"/>
+    <file name="img_4484303x202.jpg" crc="3963522045" ref="phone>index" seo="true"/>
+    <file name="img_4485303x202.jpg" crc="158638927" ref="phone>index" seo="true"/>
+    <file name="img_4489303x202.jpg" crc="3923756726" ref="phone>index" seo="true"/>
+    <file name="img_4490303x202.jpg" crc="475665690" ref="phone>index" seo="true"/>
+    <file name="img_4491303x202.jpg" crc="342841954" ref="phone>index" seo="true"/>
+    <file name="img_4493303x202.jpg" crc="257740133" ref="phone>index" seo="true"/>
+    <file name="img_4494303x202.jpg" crc="4287813276" ref="phone>index" seo="true"/>
+    <file name="img_4496303x202.jpg" crc="166152098" ref="phone>index" seo="true"/>
+    <file name="img_4497303x202.jpg" crc="4129413255" ref="phone>index" seo="true"/>
+    <file name="img_4498303x202.jpg" crc="364661095" ref="phone>index" seo="true"/>
+    <file name="img_4499303x202.jpg" crc="319789436" ref="phone>index" seo="true"/>
+    <file name="img_4500303x202.jpg" crc="319848021" ref="phone>index" seo="true"/>
+    <file name="img_4501303x202.jpg" crc="4154232373" ref="phone>index" seo="true"/>
+    <file name="img_4502303x202.jpg" crc="458541866" ref="phone>index" seo="true"/>
+    <file name="img_4503303x202.jpg" crc="397358045" ref="phone>index" seo="true"/>
+    <file name="img_4504303x202.jpg" crc="4196046777" ref="phone>index" seo="true"/>
+    <file name="img_4505303x202.jpg" crc="383061159" ref="phone>index" seo="true"/>
+    <file name="img_4506303x202.jpg" crc="3763793452" ref="phone>index" seo="true"/>
+    <file name="img_4507303x202.jpg" crc="357996216" ref="phone>index" seo="true"/>
+    <file name="img_4508303x202.jpg" crc="470811017" ref="phone>index" seo="true"/>
+    <file name="img_4511303x202.jpg" crc="471947518" ref="phone>index" seo="true"/>
+    <file name="img_4513303x202.jpg" crc="4119486905" ref="phone>index" seo="true"/>
+    <file name="img_4514303x202.jpg" crc="4222277158" ref="phone>index" seo="true"/>
+    <file name="img_4515303x202.jpg" crc="4025272374" ref="phone>index" seo="true"/>
+    <file name="img_4516303x202.jpg" crc="3769499307" ref="phone>index" seo="true"/>
+    <file name="img_4518303x202.jpg" crc="3881099610" ref="phone>index" seo="true"/>
+    <file name="img_4519303x202.jpg" crc="443474178" ref="phone>index" seo="true"/>
+    <file name="img_4520303x202.jpg" crc="4009339651" ref="phone>index" seo="true"/>
+    <file name="img_4521303x202.jpg" crc="459429366" ref="phone>index" seo="true"/>
+    <file name="img_4522303x202.jpg" crc="520608304" ref="phone>index" seo="true"/>
+    <file name="img_4523303x202.jpg" crc="506121581" ref="phone>index" seo="true"/>
+    <file name="img_4524303x202.jpg" crc="424350222" ref="phone>index" seo="true"/>
+    <file name="img_4525303x202.jpg" crc="4258595954" ref="phone>index" seo="true"/>
+    <file name="img_4526303x202.jpg" crc="302160881" ref="phone>index" seo="true"/>
+    <file name="photo1303x227.jpg" crc="4103575066" ref="phone>index" seo="true"/>
+    <file name="photo2303x227.jpg" crc="4094260448" ref="phone>index" seo="true"/>
+    <file name="photo3303x227.jpg" crc="4046214674" ref="phone>index" seo="true"/>
+    <file name="photo4303x227.jpg" crc="3879068853" ref="phone>index" seo="true"/>
+    <file name="photo5303x227.jpg" crc="177209699" ref="phone>index" seo="true"/>
+    <file name="photo6303x227.jpg" crc="4152313202" ref="phone>index" seo="true"/>
+    <file name="photo7303x227.jpg" crc="4159393503" ref="phone>index" seo="true"/>
+    <file name="photo8303x227.jpg" crc="3891996078" ref="phone>index" seo="true"/>
+    <file name="photo9303x227.jpg" crc="4095418104" ref="phone>index" seo="true"/>
+    <file name="photo10303x227.jpg" crc="50728121" ref="phone>index" seo="true"/>
+    <file name="photo11303x227.jpg" crc="4232933033" ref="phone>index" seo="true"/>
+    <file name="photo12303x227.jpg" crc="20831073" ref="phone>index" seo="true"/>
+    <file name="photo13303x227.jpg" crc="4218022121" ref="phone>index" seo="true"/>
+    <file name="photo14303x227.jpg" crc="94165044" ref="phone>index" seo="true"/>
+    <file name="photo15303x227.jpg" crc="3797485072" ref="phone>index" seo="true"/>
+    <file name="photo16303x227.jpg" crc="397604975" ref="phone>index" seo="true"/>
+    <file name="photo17303x227.jpg" crc="283538143" ref="phone>index" seo="true"/>
+    <file name="photo18303x227.jpg" crc="3787843870" ref="phone>index" seo="true"/>
+    <file name="photo21303x227.jpg" crc="3998475570" ref="phone>index" seo="true"/>
+    <file name="picture 157303x227.jpg" crc="4259494587" ref="phone>index" seo="true"/>
+    <file name="picture 160303x227.jpg" crc="3913173520" ref="phone>index" seo="true"/>
+    <file name="picture 182303x227.jpg" crc="534419507" ref="phone>index" seo="true"/>
+    <file name="picture 183303x227.jpg" crc="357440442" ref="phone>index" seo="true"/>
+    <file name="picture 184303x227.jpg" crc="4032910212" ref="phone>index" seo="true"/>
+    <file name="picture 185303x227.jpg" crc="4241170168" ref="phone>index" seo="true"/>
+    <file name="picture 189303x227.jpg" crc="3887749580" ref="phone>index" seo="true"/>
+    <file name="picture 193303x227.jpg" crc="484012013" ref="phone>index" seo="true"/>
+    <file name="picture 196303x227.jpg" crc="409013251" ref="phone>index" seo="true"/>
+    <file name="picture 199303x227.jpg" crc="4254354014" ref="phone>index" seo="true"/>
+    <file name="picture 202303x227.jpg" crc="3881540194" ref="phone>index" seo="true"/>
+    <file name="goal grayscale.jpg" crc="529760302" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4189164530" mt="1458729082453" redirect="true" seo="true"/>
+  <linkData>
+    <DESKTOP>
+      <page name="Home" filename="index.html" muse_href="page:U71">
+        <anchor name="News" html_id="news" muse_href="anchor:U66:U1262"/>
+        <anchor name="Junior" html_id="junior" muse_href="anchor:U66:U1264"/>
+        <anchor name="Senior" html_id="senior" muse_href="anchor:U66:U1265"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U66:U1267"/>
+        <anchor name="Gallery" html_id="gallery" muse_href="anchor:U66:U2410"/>
+        <anchor name="Legacy" html_id="legacy" muse_href="anchor:U66:U6433"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U66:U6458"/>
+      </page>
+    </DESKTOP>
+    <TABLET>
+      <page name="Home" filename="index.html" muse_href="page:U1522">
+        <anchor name="News" html_id="news" muse_href="anchor:U1517:U1624"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U1517:U1629"/>
+        <anchor name="Senior" html_id="senior" muse_href="anchor:U1517:U5372"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U1517:U5382"/>
+        <anchor name="Junior" html_id="junior" muse_href="anchor:U1517:U5439"/>
+        <anchor name="Gallery" html_id="gallery" muse_href="anchor:U1517:U5440"/>
+      </page>
+    </TABLET>
+    <PHONE>
+      <page name="Home" filename="index.html" muse_href="page:U1828">
+        <anchor name="News" html_id="news" muse_href="anchor:U1823:U6043"/>
+        <anchor name="Senior" html_id="senior" muse_href="anchor:U1823:U6067"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U1823:U6077"/>
+        <anchor name="Junior" html_id="junior" muse_href="anchor:U1823:U6134"/>
+        <anchor name="Gallery" html_id="gallery" muse_href="anchor:U1823:U6135"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U1823:U6136"/>
+      </page>
+    </PHONE>
+    <ASSETS>
+      <asset filename="juniors-information-sheet---2015-10-march.pdf" muse_href="upload:U163"/>
+      <asset filename="association_transfer_form.doc" muse_href="upload:U236"/>
+      <asset filename="juniors-information-sheet---version-1.pdf" muse_href="upload:U2026"/>
+    </ASSETS>
+  </linkData>
+</manifest>
